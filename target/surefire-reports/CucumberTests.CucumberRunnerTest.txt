@@ -1,0 +1,244 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTests.CucumberRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 10, Skipped: 0, Time elapsed: 0.461 sec <<< FAILURE!
+Summing with zero(Test summing)  Time elapsed: 0.111 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "Calculator is started" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Calculator is started")
+public void calculator_is_started() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("I add {int} and {int}")
+public void i_add_and(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result is {int}")
+public void result_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Summing different numbers with zero for result 7(Test summing)  Time elapsed: 0.003 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "Calculator is started" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Calculator is started")
+public void calculator_is_started() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("I add {int} and {int}")
+public void i_add_and(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result is {int}")
+public void result_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Summing different numbers with zero for result 0(Test summing)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "Calculator is started" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Calculator is started")
+public void calculator_is_started() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("I add {int} and {int}")
+public void i_add_and(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result is {int}")
+public void result_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Summing different numbers with zero for result -6(Test summing)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "Calculator is started" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Calculator is started")
+public void calculator_is_started() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("I add {int} and {int}")
+public void i_add_and(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result is {int}")
+public void result_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Summing with zero(Test summing)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "Calculator is started" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Calculator is started")
+public void calculator_is_started() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("I add {int} and {int}")
+public void i_add_and(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result is {int}")
+public void result_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Summing with zero(Test summing)  Time elapsed: 0.003 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "Calculator is started" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Calculator is started")
+public void calculator_is_started() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("I read parameters by DataTable")
+public void i_read_parameters_by_DataTable() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result is {int}")
+public void result_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Sumowanie różnych liczb z zerem daje wynik 7(Sumowanie)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "kalkulator jest włączony" is undefined. You can implement it using the snippet(s) below:
+
+@Zakładającże("kalkulator jest włączony")
+public void kalkulator_jest_włączony() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Kiedy("dodaję {int} i {int}")
+public void dodaję_i(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Wtedy("wynik wynosi {int}")
+public void wynik_wynosi(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Sumowanie różnych liczb z zerem daje wynik 0(Sumowanie)  Time elapsed: 0.003 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "kalkulator jest włączony" is undefined. You can implement it using the snippet(s) below:
+
+@Zakładającże("kalkulator jest włączony")
+public void kalkulator_jest_włączony() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Kiedy("dodaję {int} i {int}")
+public void dodaję_i(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Wtedy("wynik wynosi {int}")
+public void wynik_wynosi(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Sumowanie różnych liczb z zerem daje wynik -6(Sumowanie)  Time elapsed: 0.003 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "kalkulator jest włączony" is undefined. You can implement it using the snippet(s) below:
+
+@Zakładającże("kalkulator jest włączony")
+public void kalkulator_jest_włączony() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Kiedy("dodaję {int} i {int}")
+public void dodaję_i(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Wtedy("wynik wynosi {int}")
+public void wynik_wynosi(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Sumowanie różnych liczb z zerem daje wynik 4(Sumowanie)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "kalkulator jest włączony" is undefined. You can implement it using the snippet(s) below:
+
+@Zakładającże("kalkulator jest włączony")
+public void kalkulator_jest_włączony() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Kiedy("dodaję {int} i {int}")
+public void dodaję_i(Integer int1, Integer int2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Wtedy("wynik wynosi {int}")
+public void wynik_wynosi(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
